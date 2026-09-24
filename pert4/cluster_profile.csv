@@ -1,0 +1,3 @@
+Cluster,Customer_Age,Months_on_book,Credit_Limit,Total_Revolving_Bal,Total_Trans_Amt,Total_Trans_Ct,Total_Relationship_Count,Avg_Utilization_Ratio,Jumlah_Nasabah
+0,46.45,36.03,7533.27,1135.16,3261.81,59.37,4.09,0.29,8708
+1,45.54,35.28,15374.26,1332.52,11413.91,98.51,2.13,0.17,1419
